@@ -1,0 +1,241 @@
+[
+  {
+    "id": "C001",
+    "title": "Water leakage in hostel bathroom",
+    "category": "Hostel",
+    "priority": "High",
+    "status": "In Progress",
+    "description": "There is continuous leakage from the shower pipe causing the bathroom to flood.",
+    "createdAt": "2025-01-02T09:15:00Z",
+    "assignedTo": "Maintenance Team",
+    "imageId": "https://sece.ac.in/wp-content/uploads/2024/07/boyshostelfacilities_Open-to-Sky-seating.jpg",
+    "solution": "",
+    "notes": "",
+    "suggestion": "",
+    "contactPerson": {
+      "name": "",
+      "mobile": ""
+    },
+    "user": {
+      "name": "Dhanu",
+      "department": "CSE",
+      "year": "2nd Year"
+    }
+  },
+
+  {
+    "id": "C002",
+    "title": "Projector not working in classroom",
+    "category": "Academics",
+    "priority": "Medium",
+    "status": "Open",
+    "description": "The projector in CSE Classroom 204 is not turning on since morning.",
+    "createdAt": "2025-01-03T11:10:00Z",
+    "assignedTo": "",
+    "imageId": "https://sece.ac.in/wp-content/uploads/2024/07/worldclassfacilities_interactiveclassroom-1-768x373.jpg",
+    "solution": "",
+    "notes": "",
+    "suggestion": "",
+    "contactPerson": {
+      "name": "",
+      "mobile": ""
+    },
+    "user": {
+      "name": "Sneha R",
+      "department": "CSE",
+      "year": "1st Year"
+    }
+  },
+
+  {
+    "id": "C003",
+    "title": "Wi-Fi not accessible in library",
+    "category": "Network",
+    "priority": "High",
+    "status": "Resolved",
+    "description": "Wi-Fi signal drops frequently inside the reading hall.",
+    "createdAt": "2025-01-05T14:20:00Z",
+    "assignedTo": "IT Support",
+    "imageId": "https://img.etimg.com/thumb/width-420,height-315,imgsize-74788,resizemode-75,msid-123929818/industry/telecom/telecom-news/wait-for-wifi-6-gets-longer-over-spectrum-licensing-issues/wifi.jpg",
+    "solution": "Router configuration updated and access points reset. Additional router placed near the reading hall for better coverage.",
+    "notes": "Issue resolved within 2 hours.",
+    "suggestion": "Connect only 1 device at a time for stable speed. Avoid peak hours for heavy downloads.",
+    "contactPerson": {
+      "name": "Rajesh Kumar (Network Admin)",
+      "mobile": "9876543210"
+    },
+    "user": {
+      "name": "Rithika S",
+      "department": "ECE",
+      "year": "3rd Year"
+    }
+  },
+
+  {
+    "id": "C004",
+    "title": "Bus late arrival on Route 7",
+    "category": "Transport",
+    "priority": "Low",
+    "status": "Open",
+    "description": "The college bus on Route 7 has been consistently late by 20 minutes.",
+    "createdAt": "2025-01-06T07:50:00Z",
+    "assignedTo": "",
+    "imageId": "https://sece.ac.in/wp-content/uploads/2024/06/transport-banner-1.jpg",
+    "solution": "",
+    "notes": "",
+    "suggestion": "",
+    "contactPerson": {
+      "name": "",
+      "mobile": ""
+    },
+    "user": {
+      "name": "Mahesh B",
+      "department": "IT",
+      "year": "2nd Year"
+    }
+  },
+
+  {
+    "id": "C005",
+    "title": "Mess food quality is poor",
+    "category": "Amenity",
+    "priority": "Medium",
+    "status": "In Progress",
+    "description": "Rice served in the mess is undercooked and sambar is watery.",
+    "createdAt": "2025-01-07T12:40:00Z",
+    "assignedTo": "Mess Supervisor",
+    "imageId": "https://sece.ac.in/wp-content/uploads/2024/06/worldclass-facilties_amenitycentre.jpg",
+    "solution": "",
+    "notes": "Review meeting scheduled.",
+    "suggestion": "",
+    "contactPerson": {
+      "name": "",
+      "mobile": ""
+    },
+    "user": {
+      "name": "Priya S",
+      "department": "EEE",
+      "year": "1st Year"
+    }
+  },
+
+  {
+    "id": "C006",
+    "title": "AC not cooling in lab",
+    "category": "Laboratory",
+    "priority": "High",
+    "status": "Open",
+    "description": "The AC in Lab 3 is running but not cooling.",
+    "createdAt": "2025-01-08T10:05:00Z",
+    "assignedTo": "",
+    "imageId": "https://sece.ac.in/wp-content/uploads/2024/07/IT-WEB-Banner-1-768x280.jpg",
+    "solution": "",
+    "notes": "",
+    "suggestion": "",
+    "contactPerson": {
+      "name": "",
+      "mobile": ""
+    },
+    "user": {
+      "name": "Gowtham R",
+      "department": "AI & DS",
+      "year": "2nd Year"
+    }
+  },
+
+  {
+    "id": "C007",
+    "title": "Broken chair in classroom",
+    "category": "Infrastructure",
+    "priority": "Low",
+    "status": "Resolved",
+    "description": "One of the chairs in classroom 102 is broken and unsafe to sit.",
+    "createdAt": "2025-01-08T15:10:00Z",
+    "assignedTo": "Carpentry Team",
+    "imageId": "https://sece.ac.in/wp-content/uploads/2024/06/worldclass-facilties_IT-centre-768x373.jpg",
+    "solution": "Chair replaced with a new one during afternoon maintenance round.",
+    "notes": "Resolved same day.",
+    "suggestion": "Report future furniture issues early to avoid injury risks.",
+    "contactPerson": {
+      "name": "Suresh (Infrastructure Staff)",
+      "mobile": "9876512340"
+    },
+    "user": {
+      "name": "Naveen M",
+      "department": "MECH",
+      "year": "3rd Year"
+    }
+  },
+
+  {
+    "id": "C008",
+    "title": "Fan making noise in dorm room",
+    "category": "Hostel",
+    "priority": "Medium",
+    "status": "In Progress",
+    "description": "Ceiling fan is making a loud noise and needs lubrication.",
+    "createdAt": "2025-01-09T17:25:00Z",
+    "assignedTo": "Maintenance",
+    "imageId": "https://sece.ac.in/wp-content/uploads/2024/07/boyshostel-gallery.jpg",
+    "solution": "Fan bearings lubricated, suggested full replacement next week.",
+    "notes": "Noise reduced significantly.",
+    "suggestion": "Avoid running the fan at max speed until replacement.",
+    "contactPerson": {
+      "name": "Karthik (Hostel Staff)",
+      "mobile": "9998877665"
+    },
+    "user": {
+      "name": "Harini P",
+      "department": "CSE",
+      "year": "2nd Year"
+    }
+  },
+
+  {
+    "id": "C009",
+    "title": "Complaint about long queue in Xerox shop",
+    "category": "Campus Services",
+    "priority": "Low",
+    "status": "Open",
+    "description": "Only one machine working; need better management.",
+    "createdAt": "2025-01-10T10:55:00Z",
+    "imageId": "https://sece.ac.in/wp-content/uploads/2024/06/research-institute-intro-banner-1.jpg",
+    "assignedTo": "",
+    "solution": "",
+    "notes": "",
+    "suggestion": "",
+    "contactPerson": {
+      "name": "",
+      "mobile": ""
+    },
+    "user": {
+      "name": "Divya K",
+      "department": "BBA",
+      "year": "1st Year"
+    }
+  },
+
+  {
+    "id": "C010",
+    "title": "Lab computer not booting",
+    "category": "Laboratory",
+    "priority": "High",
+    "status": "Resolved",
+    "description": "System 14 in Lab-1 is not booting due to OS crash.",
+    "createdAt": "2025-01-11T08:45:00Z",
+    "assignedTo": "IT Support",
+    "solution": "Reinstalled OS and restored necessary drivers. System tested for performance.",
+    "imageId": "https://sece.ac.in/wp-content/uploads/2024/07/CSBS-Business-Analytics-Laboratory-scaled.webp",
+    "notes": "Working fine now.",
+    "suggestion": "Avoid sudden shutdowns; backup files frequently.",
+    "contactPerson": {
+      "name": "Arun (IT Technician)",
+      "mobile": "9876001234"
+    },
+    "user": {
+      "name": "Sathish M",
+      "department": "CSE",
+      "year": "2nd Year"
+    }
+  }
+]
