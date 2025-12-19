@@ -29,7 +29,7 @@ const AdminComplaints = () => {
     e.stopPropagation();
     if (!window.confirm("Delete this complaint?")) return;
     try {
-      await fetch(`http://localhost:8000/api/v1/complaints/${id}`, {
+      await fetch(`https://learning-sri-backend-fq8o.onrender.com/api/v1/complaints/${id}`, {
         method: "DELETE",
       });
       setComplaints((prev) => prev.filter((item) => item.id !== id));

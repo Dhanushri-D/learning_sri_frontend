@@ -23,7 +23,7 @@ const ComplaintForm = () => {
   const onSubmithandler = async (fdata) => {
     try {
       const response = await fetch(
-        "http://localhost:8000/api/v1/complaints",
+        "https://learning-sri-backend-fq8o.onrender.com/api/v1/complaints",
         {
           method: "POST",
           headers: {

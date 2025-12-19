@@ -7,7 +7,7 @@ const AdminUsers = () => {
     const fetchUsers = async () => {
       try {
         const res = await fetch(
-          "http://localhost:8000/api/v1/complaints"
+          "https://learning-sri-backend-fq8o.onrender.com/api/v1/complaints"
         );
         const result = await res.json();
         if (!res.ok) {

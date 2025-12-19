@@ -8,7 +8,7 @@ const Solution = () => {
     const fetchSolution = async () => {
       try {
         const res = await fetch(
-          `http://localhost:8000/api/v1/complaints/${complaintId}`
+          `https://learning-sri-backend-fq8o.onrender.com/api/v1/complaints/${complaintId}`
         );
         const result = await res.json();
 
