@@ -45,7 +45,7 @@ const AdminComplaintDetails = () => {
     };
     try {
       const res = await fetch(
-        `http://localhost:8000/api/v1/complaints/${id}`,
+        `https://learning-sri-backend-fq8o.onrender.com/api/v1/complaints/${id}`,
         {
           method: "PUT",
           headers: {
